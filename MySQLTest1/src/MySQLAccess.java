@@ -1,7 +1,7 @@
 
 //STEP 1. Import required packages
 import java.sql.*;
-
+//Adding conflicting comment
 public class MySQLAccess {
 	// JDBC driver name and database URL
 	static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
